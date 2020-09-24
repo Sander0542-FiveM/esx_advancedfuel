@@ -1,7 +1,7 @@
 petrolCanPrice = 100
 
 -- lang = "en"
-lang = "fr"
+lang = "en"
 
 settings = {}
 settings["en"] = {
@@ -43,7 +43,7 @@ settings["fr"] = {
 }
 
 
-showBar = false
+showBar = true
 showText = true
 
 
