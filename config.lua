@@ -1,7 +1,7 @@
 petrolCanPrice = 100
 
 -- lang = "en"
-lang = "en"
+lang = "nl"
 
 settings = {}
 settings["en"] = {
@@ -40,6 +40,25 @@ settings["fr"] = {
 	YouHaveBought = "Vous avez acheté ",
 	fuel = " litres d'essence",
 	price = "prix"
+}
+
+settings["nl"] = {
+	openMenu = "Druk op ~g~E~w~ om het menu te openen.",
+	electricError = "~r~Je hebt een elektrische auto.",
+	fuelError = "~r~Je bent niet op de goede plek.",
+	buyFuel = "brandstof kopen",
+	liters = "liters",
+	percent = "procent",
+	confirm = "Bevestigen",
+	fuelStation = "Tankstation",
+	boatFuelStation = "Tankstation | Boot",
+	avionFuelStation = "Tankstation | Vliegtuig ",
+	heliFuelStation = "Tankstation | Helikopter",
+	getJerryCan = "Druk op ~g~E~w~ om een benzineblik te kopen (€"..petrolCanPrice..")",
+	refeel = "Druk op ~g~E~w~ om de auto bij te tanken.",
+	YouHaveBought = "Je hebt gekocht: ",
+	fuel = " liters brandstof",
+	price = "prijs"
 }
 
 
