@@ -48,6 +48,7 @@ plane_model = {
 
 
 heli_model = {
+	"AKULA",
 	"ANNIHILATOR",
 	"BUZZARD",
 	"BUZZARD2",
@@ -56,8 +57,11 @@ heli_model = {
 	"CARGOBOB3",
 	"FROGGER",
 	"FROGGER2",
+	"HAVOK",
+	"HUNTER",
 	"MAVERICK",
 	"SAVAGE",
+	"SEASPARROW",
 	"SKYLIFT",
 	"SVOLITO",
 	"SVOLITO2",
