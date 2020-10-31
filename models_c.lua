@@ -25,25 +25,43 @@ electric_model = {
 
 
 plane_model = {
+	"ALPHAZ1",
+	"AVENGER2",
 	"BESRA",
+	"BLIMP",
+	"BLIMP2",
+	"BLIMP3",
+	"BOMBUSHKA",
 	"CARGOPLANE",
 	"CUBAN800",
 	"DODO",
 	"DUSTER",
+	"HOWARD",
 	"HYDRA",
 	"JET",
 	"LUXOR",
 	"LUXOR2",
+	"STARLING",
 	"STUNT",
 	"MAMMATUS",
+	"MICROLIGHT",
 	"MILJET",
+	"MOGUL",
+	"MOLOTOK",
 	"NIMBUS",
+	"NOKOTA",
 	"LAZER",
+	"PYRO",
+	"ROGUE",
+	"SEABREEZE",
 	"SHAMAL",
+	"STRIKEFORCE",
 	"TITAN",
+	"TULA",
 	"VELUM",
 	"VELUM2",
-	"VESTRA"
+	"VESTRA",
+	"VOLATOL"
 }
 
 
