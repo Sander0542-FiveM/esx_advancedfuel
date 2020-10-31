@@ -1,26 +1,31 @@
 blacklistedModels = { -- Vehicles which doesn't need fuel
+	"BENSON",
 	"BMX",
 	"CRUISER",
-	"TRIBIKE2",
 	"FIXTER",
 	"SCORCHER",
-	"TRIBIKE3",
 	"TRIBIKE",
-	"POLMAV",
-	"AMBULANCE",
-	"BENSON",
+	"TRIBIKE2",
+	"TRIBIKE3"
 }
 
 
 electric_model = {
-	"VOLTIC",
-	"SURGE",
-	"DILETTANTE",
-	"KHAMELION",
+	"AIRTUG",
 	"CADDY",
 	"CADDY2",
-	"AIRTUG",
-	"CYCLONE"
+	"CADDY3",
+	"CYCLONE",
+	"DILETTANTE",
+	"DILETTANTE2",
+	"FORKLIFT",
+	"IMORGON",
+	"KHAMELION",
+	"NEON",
+	"RAIDEN",
+	"SURGE",
+	"TEZERACT",
+	"VOLTIC",
 }
 
 
